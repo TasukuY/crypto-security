@@ -1,0 +1,6 @@
+
+I love cryptography!
+
+1. make an alphabets array including special chars. 
+2. key = array.length - index
+3. encryptedChar = array[key]
